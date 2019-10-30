@@ -1,7 +1,7 @@
 DigiGreen Core
 =====================================
 
-https://dopecoin.com
+https://digigreencoin.com
 
 What is DigiGreen?
 ----------------
@@ -17,7 +17,7 @@ Our mission is to provide this billion dollar industry with alternative payment 
 Thank you for joining us on the DigiGreen adventure!
 
 For more information, as well as an immediately useable, binary version of
-the DigiGreen Core software, see [website](https://dopecoin.com) or visit [forum](https://bitcointalk.org/index.php?topic=467641.0).
+the DigiGreen Core software, see [website](https://digigreencoin.com) or visit [forum](https://bitcointalk.org/index.php?topic=467641.new#new).
 
 Coin Specifications
 ----------------
@@ -55,7 +55,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested and is meant to be stable. Development is normally done in separate branches.
-[Tags](https://github.com/dopecoin-dev/dopecoin-core/tags) are created regularly to indicate new official, stable release versions of DigiGreen Core.
+[Tags](https://github.com/DigiGreenCoin/digigreen-core/tags) are created regularly to indicate new official, stable release versions of DigiGreen Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
